@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ivr-tester": "^0.2.12",
+    "ivr-tester-transcriber-google-speech-to-text": "^0.1.4"
+  }
+}
